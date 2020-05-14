@@ -276,12 +276,9 @@ const character = {
     "whispers"
   ],
   weapons: [
-    [
-      ["axe", "dagger", "mace", "short sword", "flail", "one-handed spear"],
-      ["spear", "halberd", "long sword", "warhammer"],
-      ["bow", "crossbow", "sling"]
-    ],
-    ["1 hand", "+1 damage, 2 hands", "2 hands"]
+    ["axe", "dagger", "mace", "short sword", "flail", "one-handed spear"],
+    ["spear", "halberd", "long sword", "warhammer"],
+    ["bow", "crossbow", "sling"]
   ]
 };
 
